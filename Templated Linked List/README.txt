@@ -1,9 +1,7 @@
 Nicholas Amari
 April 20 2021
 
-Templated Linked List No zombie problem
+Templated Linked List in C
 
-mainAmari.cpp includes the .h files, all named appropriately
-
-mainAmari is a large testFile.
-
+Built a linked List data structure to be implimented with any data type.
+Custom classes can now be easily sorted using this LinkedList Structure.
