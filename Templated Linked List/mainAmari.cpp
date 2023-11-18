@@ -4,7 +4,6 @@
 /*
 Name : Nicholas Amari
 Date : April 20 2021
-Assignment : 6 - Templated Linked list without problem, 80% specifications
 */
 
 int main() {
