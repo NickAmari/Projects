@@ -1,0 +1,11 @@
+C:\Users\nicka\source\repos\Homework1\Homework1Forms\obj\Debug\Homework1Forms.csproj.AssemblyReference.cache
+C:\Users\nicka\source\repos\Homework1\Homework1Forms\obj\Debug\Homework1Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicka\source\repos\Homework1\Homework1Forms\obj\Debug\Homework1Forms.Form1.resources
+C:\Users\nicka\source\repos\Homework1\Homework1Forms\obj\Debug\Homework1Forms.Properties.Resources.resources
+C:\Users\nicka\source\repos\Homework1\Homework1Forms\obj\Debug\Homework1Forms.csproj.GenerateResource.cache
+C:\Users\nicka\source\repos\Homework1\Homework1Forms\obj\Debug\Homework1Forms.csproj.CoreCompileInputs.cache
+C:\Users\nicka\source\repos\Homework1\Homework1Forms\bin\Debug\Homework1Forms.exe.config
+C:\Users\nicka\source\repos\Homework1\Homework1Forms\bin\Debug\Homework1Forms.exe
+C:\Users\nicka\source\repos\Homework1\Homework1Forms\bin\Debug\Homework1Forms.pdb
+C:\Users\nicka\source\repos\Homework1\Homework1Forms\obj\Debug\Homework1Forms.exe
+C:\Users\nicka\source\repos\Homework1\Homework1Forms\obj\Debug\Homework1Forms.pdb
