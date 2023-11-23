@@ -1,0 +1,16 @@
+Refactor Code
+Perform a code review and list issues in the program.
+1. Rename class to DataProcessing, standard class naming convention
+2. Array size needs to be variable since the file size is unknown. Import java.util.ArrayList;
+And use an arraylist instead.
+3. Should have closed the console Scanner object after its use.
+4. Double total is never used and can be deleted
+5. It is better to first collect data from files as a string using hasNext(). This will throw less errors while reading from a file. We can further collect the doubles after.
+6. Need to check if the data arrayList is empty or not before operating on it.
+7. Sorting the data is fine: though better done as a separate function or importing a sorting class such as java.util.Collections
+8. When calculating stats. Need to use data.size() for ArrayList
+9. med   = data [ length / 2 ] this operation must change when using an ArrayList
+10. Do not need to cast length to a Double for mean calculation
+11. Do not need import java.io.PrintWriter;
+12. Int i = 0 should be local. Global i opens up problems, and should be avoided.
+13. Finally, must use try and catch to check for exceptions!
