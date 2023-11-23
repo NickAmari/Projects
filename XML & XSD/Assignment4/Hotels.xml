@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+	<Hotel Stars="3">
+		<Name>Polo Towers</Name>
+		<Contact Phone="(702)261-1000" Email="hotel.reservations@diamondresorts.com"></Contact>
+		<Address Number="3745" Street="S Las Vegas Blvd" City="Las Vegas, NV" Zip="89109"></Address>
+	</Hotel>
+	<Hotel Stars="4">
+		<Name>Treasure Island Hotel and Casino</Name>
+		<Contact Phone="(702)894-7111" Email="fhi_tinv@radissonamericas.com"></Contact>
+		<Address Number="3300" Street="S Las Vegas Blvd" City="Las Vegas, NV" Zip="89109"></Address>
+	</Hotel>
+	<Hotel Stars="4">
+		<Name>SAHARA</Name>
+		<Contact Phone="(702)761-7000" Email="gm@saharalasvegas.com"></Contact>
+		<Address Number="2535" Street="S Las Vegas Blvd" City="Las Vegas, NV" Zip="89109"></Address>
+	</Hotel>
+	<Hotel Stars="3">
+		<Name>Desert Rose Resort</Name>
+		<Contact Phone="(702)739-7000" Email="extraholidaysbywyndham@wyn.com"></Contact>
+		<Address Number="5051" Street="Duke Ellington Way" City="Las Vegas, NV" Zip="89119"></Address>
+	</Hotel>
+	<Hotel Stars="3">
+		<Name>The Carriage House</Name>
+		<Contact Phone="(702)798-1020" Email="reservations@carriagehouselasvegas.com"></Contact>
+		<Address Number="105" Street="E Harmon Ave" City="Las Vegas, NV" Zip="89109"></Address>
+	</Hotel>
+</Hotels>
